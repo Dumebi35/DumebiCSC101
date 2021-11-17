@@ -1,0 +1,291 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.8)  17 NOV 2021 21:49
+entering extended mode
+**"./Class Project II Week 5.tex"
+(Class Project II Week 5.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box52
+\extrarowheight=\dimen151
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+\everycr=\toks23
+\minrowclearance=\skip54
+)
+\rownum=\count268
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box54
+) (Class Project II Week 5.aux)
+\openout1 = `"Class Project II Week 5.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen152
+\scratchbox=\box55
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen153
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<pictures/pau logo.png, id=1, 467.7475pt x 213.79875pt>
+File: pictures/pau logo.png Graphic file (type png)
+<use pictures/pau logo.png>
+Package pdftex.def Info: pictures/pau logo.png  used on input line 12.
+(pdftex.def)             Requested size: 310.4979pt x 141.9297pt.
+ [1
+
+{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./pictures/pau l
+ogo.png>] (Class Project II Week 5.toc)
+\tf@toc=\write3
+\openout3 = `"Class Project II Week 5.toc"'.
+
+ [1]
+<pictures/phone.jpg, id=16, 158.0304pt x 188.3838pt>
+File: pictures/phone.jpg Graphic file (type jpg)
+<use pictures/phone.jpg>
+Package pdftex.def Info: pictures/phone.jpg  used on input line 30.
+(pdftex.def)             Requested size: 34.5021pt x 41.12836pt.
+<pictures/tablet.jpg, id=17, 177.14963pt x 177.14963pt>
+File: pictures/tablet.jpg Graphic file (type jpg)
+<use pictures/tablet.jpg>
+Package pdftex.def Info: pictures/tablet.jpg  used on input line 30.
+(pdftex.def)             Requested size: 34.5021pt x 34.50214pt.
+<pictures/memory device.jpg, id=18, 175.25475pt x 216.81pt>
+File: pictures/memory device.jpg Graphic file (type jpg)
+<use pictures/memory device.jpg>
+Package pdftex.def Info: pictures/memory device.jpg  used on input line 30.
+(pdftex.def)             Requested size: 34.5021pt x 42.68303pt.
+ [2 <./pictures/phone.jpg> <./pictures/tablet.jpg> <./pictures/memory device.jp
+g>]
+<pictures/AND Gate.jpg, id=22, 626.75534pt x 401.2231pt>
+File: pictures/AND Gate.jpg Graphic file (type jpg)
+<use pictures/AND Gate.jpg>
+Package pdftex.def Info: pictures/AND Gate.jpg  used on input line 52.
+(pdftex.def)             Requested size: 172.5pt x 110.42546pt.
+<pictures/OR Gate.jpg, id=23, 608.78288pt x 415.5525pt>
+File: pictures/OR Gate.jpg Graphic file (type jpg)
+<use pictures/OR Gate.jpg>
+Package pdftex.def Info: pictures/OR Gate.jpg  used on input line 65.
+(pdftex.def)             Requested size: 172.5pt x 117.74254pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./pictures/AND Gate.jpg>]
+<pictures/NOT gate.jpg, id=27, 613.00447pt x 380.30606pt>
+File: pictures/NOT gate.jpg Graphic file (type jpg)
+<use pictures/NOT gate.jpg>
+Package pdftex.def Info: pictures/NOT gate.jpg  used on input line 78.
+(pdftex.def)             Requested size: 172.5pt x 107.01884pt.
+<pictures/NOR Gate.jpg, id=28, 668.4975pt x 383.89293pt>
+File: pictures/NOR Gate.jpg Graphic file (type jpg)
+<use pictures/NOR Gate.jpg>
+Package pdftex.def Info: pictures/NOR Gate.jpg  used on input line 100.
+(pdftex.def)             Requested size: 172.5pt x 99.06001pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./pictures/OR Gate.jpg> <./pictures/NOT gate.jpg>]
+<pictures/NAND Gate.jpg, id=33, 595.96565pt x 390.67696pt>
+File: pictures/NAND Gate.jpg Graphic file (type jpg)
+<use pictures/NAND Gate.jpg>
+Package pdftex.def Info: pictures/NAND Gate.jpg  used on input line 119.
+(pdftex.def)             Requested size: 172.5pt x 113.0788pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./pictures/NOR Gate.jpg> <./pictures/NAND Gate.jpg>] [6]
+<pictures/Logic gate and truth table.jpg, id=42, 475.7775pt x 559.08875pt>
+File: pictures/Logic gate and truth table.jpg Graphic file (type jpg)
+<use pictures/Logic gate and truth table.jpg>
+Package pdftex.def Info: pictures/Logic gate and truth table.jpg  used on input
+ line 174.
+(pdftex.def)             Requested size: 345.0pt x 405.42706pt.
+ [7 <./pictures/Logic gate and truth table.jpg>] [8] [9] (Class Project II Week
+ 5.bbl) [10]
+(Class Project II Week 5.aux) ) 
+Here is how much of TeX's memory you used:
+ 2559 strings out of 478927
+ 36751 string characters out of 2853009
+ 351528 words of memory out of 3000000
+ 20403 multiletter control sequences out of 15000+600000
+ 409447 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,14n,66p,364b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/User/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/User/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/User/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Us
+er/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pf
+b><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb>
+Output written on "Class Project II Week 5.pdf" (11 pages, 333405 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

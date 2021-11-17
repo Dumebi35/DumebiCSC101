@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Class Project II Week 5.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Database file #1: logicGates.bib
+Warning--entry type for "picture" isn't style-file defined
+--line 2 of file logicGates.bib
+I was expecting a `,' or a `}'---line 4 of file logicGates.bib
+ :  
+ :  url{https://th.bing.com/th/id/OIP.y976eJLe4t2M44zrbiHmGQHaIt?pid=ImgDet&rs=1}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "logicgates2021" isn't style-file defined
+--line 7 of file logicGates.bib
+"{" immediately follows a field name---line 10 of file logicGates.bib
+ :   organization
+ :               {PAUelearning}
+I'm skipping whatever remains of this entry
+Warning--empty journal in logicgates
+Warning--empty year in logicgates
+You've used 3 entries,
+            1876 wiz_defined-function locations,
+            484 strings with 3630 characters,
+and the built_in function-call counts, 472 in all, are:
+= -- 40
+> -- 9
+< -- 0
++ -- 5
+- -- 2
+* -- 25
+:= -- 65
+add.period$ -- 1
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 21
+empty$ -- 62
+format.name$ -- 2
+if$ -- 115
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 12
+num.names$ -- 2
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 19
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 5
+width$ -- 4
+write$ -- 21
+(There were 2 error messages)
