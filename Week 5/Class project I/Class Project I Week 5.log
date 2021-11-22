@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.8)  13 NOV 2021 19:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.8)  22 NOV 2021 13:34
 entering extended mode
 **"./Class Project I Week 5.tex"
 (Class Project I Week 5.tex
@@ -511,10 +511,30 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \backup@length=\skip50
 \ar@cellbox=\box63
 ))
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen263
+\lightrulewidth=\dimen264
+\cmidrulewidth=\dimen265
+\belowrulesep=\dimen266
+\belowbottomsep=\dimen267
+\aboverulesep=\dimen268
+\abovetopsep=\dimen269
+\cmidrulesep=\dimen270
+\cmidrulekern=\dimen271
+\defaultaddspace=\dimen272
+\@cmidla=\count284
+\@cmidlb=\count285
+\@aboverulesep=\dimen273
+\@belowrulesep=\dimen274
+\@thisruleclass=\count286
+\@lastruleclass=\count287
+\@thisrulewidth=\dimen275
+)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
+\l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box64
 ) (Class Project I Week 5.aux)
 \openout1 = `"Class Project I Week 5.aux"'.
@@ -537,16 +557,16 @@ LaTeX Font Info:    ... okay on input line 4.
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen263
+\scratchcounter=\count289
+\scratchdimen=\dimen276
 \scratchbox=\box65
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen264
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen277
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks35
 )
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
@@ -567,27 +587,25 @@ your preamble.
 
 PGFPlots: reading {Classification-of-Robots.csv}
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 18.
 [1{C:/Users/User/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (Class Project I Week 5.aux) ) 
 Here is how much of TeX's memory you used:
- 22175 strings out of 478927
- 605144 string characters out of 2853009
- 1017036 words of memory out of 3000000
- 39717 multiletter control sequences out of 15000+600000
+ 22245 strings out of 478927
+ 606678 string characters out of 2853009
+ 1014036 words of memory out of 3000000
+ 39783 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,10n,117p,724b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,9n,117p,745b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/User/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/User/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Class Project I Week 5.pdf" (1 page, 41752 bytes).
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "Class Project I Week 5.pdf" (1 page, 22469 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

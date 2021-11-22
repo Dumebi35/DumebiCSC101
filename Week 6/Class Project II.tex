@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{pgfplotstable}
+\usepackage{booktabs}
+%Dumebi Valerie Duru CSC 101
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{Artists}
+		\pgfplotstabletypesetfile[
+		multicolumn names,
+		col sep=comma,
+		display columns/0/.style={
+			column name=$id$, column type={c}, string type},
+		display columns/1/.style={column name=$name$, column type={c}, string type},
+		display columns/2/.style={column name=$years$, column type={c}, string type},
+		display columns/3/.style={column name=$genre$, column type={c}, string type},
+		display columns/4/.style={column name=$nationality$, column type={c}, string type},
+		display columns/5/.style={column name=$painting$, column type={c}, string type},
+		every head row/.style = {before row = \toprule, after row =\midrule},
+		every last row/.style = {after row =\bottomrule},
+		]{artists.csv}
+		\end{center}
+	
+			
+	\end{table}
+\end{document}
