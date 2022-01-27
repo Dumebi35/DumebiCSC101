@@ -1,6 +1,6 @@
 #collect data from the user
 P = int(input('What is the Principal? '))
-R = int(input('What is the Rate? '))
+R = int(input('What is the Rate? '))/100
 n = int(input('What is the number of deposits '))
 t = int(input('What is the time? '))
 PMT = int(input('What is the PMT? '))
