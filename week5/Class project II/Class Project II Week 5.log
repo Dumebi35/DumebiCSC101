@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.8)  18 NOV 2021 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.8)  24 FEB 2022 22:50
 entering extended mode
 **"./Class Project II Week 5.tex"
 (Class Project II Week 5.tex
@@ -267,7 +267,7 @@ Package pdftex.def Info: pictures/Logic gate and truth table.jpg  used on input
 (Class Project II Week 5.aux) ) 
 Here is how much of TeX's memory you used:
  2559 strings out of 478927
- 36751 string characters out of 2853009
+ 36745 string characters out of 2853009
  351528 words of memory out of 3000000
  20403 multiletter control sequences out of 15000+600000
  409447 words of font info for 48 fonts, out of 8000000 for 9000
@@ -283,7 +283,7 @@ er/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
 sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pf
 b><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 msy10.pfb>
-Output written on "Class Project II Week 5.pdf" (11 pages, 333448 bytes).
+Output written on "Class Project II Week 5.pdf" (11 pages, 333166 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
